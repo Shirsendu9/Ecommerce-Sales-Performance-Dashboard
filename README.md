@@ -1,10 +1,10 @@
 **E-commerce Sales Performance Dashboard**
 
-Project Overview
+**Project Overview**
 
 This Power BI dashboard analyzes E-commerce sales data, providing key insights into sales performance, customer segments, and product profitability. It enables data-driven decision-making through interactive visualizations and dynamic filters.
 
-Features & Insights
+**Features & Insights**
 
 🔹 Monthly Order Trends – Tracks order volume over time.
 
@@ -16,13 +16,13 @@ Features & Insights
 
 🔹 Dynamic Filters – Users can filter data by Year, Quarter, Sub-Category, and Region.
 
-Tech Stack
+**Tech Stack**
 
 ✅ Microsoft Power BI – Data visualization & dashboard design
 
 ✅ E-commerce Dataset – Sales data for analysis
 
-How to Use
+**How to Use**
 
 1️⃣ Open the Sales Performance Dashboard.pbix file in Power BI.
 
@@ -30,11 +30,11 @@ How to Use
 
 3️⃣ Analyze customer buying behavior, top-selling products, and profit trends.
 
-Dataset
+**Dataset**
 
 The dataset contains information on sales, customers, product categories, and profitability across multiple segments and regions.
 
-Key Learnings
+**Key Learnings**
 
 ✔ How to create dynamic visuals using Power BI.
 
@@ -42,7 +42,7 @@ Key Learnings
 
 ✔ How to design an interactive and insightful dashboard for business analytics.
 
-Future Improvements
+**Future Improvements**
 
 🚀 Enhance visuals with advanced DAX measures.
 
